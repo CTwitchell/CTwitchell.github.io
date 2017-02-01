@@ -1,0 +1,86 @@
+.backHold {
+    position: absolute;
+    width: 100%;
+}
+
+.backG {
+    background-size: 436px 436px;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+nav {
+    width: 5%;
+    top: 5%;
+}
+
+.nav {
+    width: 10%;
+}
+
+button {
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+    background: none;
+    border: none;
+}
+
+#menu {
+    height: 35px;
+    width: 35px;
+}
+
+.wall {}
+
+head {
+    padding-bottom: 50px;
+}
+
+footer {
+    position: fixed;
+    display: inline;
+    height: 15%;
+    bottom: 0;
+    width: 100%;
+    padding-top: 10%;
+}
+
+.socialMedia {
+    width: 40%;
+    padding-left: 30%;
+    padding-Right: 30%;
+    bottom: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+}
+
+body {
+    background: url("background2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    
+}
+.facebook, .soundcloud, .twitter {
+    display: inline-block;
+    width: 30%;
+}
+.instagram {
+    display: inline-block;
+}
+
+
+.social{
+    margin-left: auto;
+    margin-right: auto;
+}
+.nothing {
+    display: block;
+    width: 100%;
+    height: auto;
+    padding-bottom: 600px;
+}
